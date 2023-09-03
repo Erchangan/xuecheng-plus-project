@@ -1,0 +1,22 @@
+# Project exclude paths
+/xuecheng-plus-auth/target/
+/xuecheng-plus-base/target/
+/xuecheng-plus-checkcode/target/
+/xuecheng-plus-content/xuecheng-plus-content-api/target/
+/xuecheng-plus-content/xuecheng-plus-content-model/target/
+/xuecheng-plus-content/xuecheng-plus-content-service/target/
+/xuecheng-plus-gateway/target/
+/xuecheng-plus-generator/target/
+/xuecheng-plus-learning/xuecheng-plus-learning-api/target/
+/xuecheng-plus-learning/xuecheng-plus-learning-model/target/
+/xuecheng-plus-learning/xuecheng-plus-learning-service/target/
+/xuecheng-plus-media/xuecheng-plus-media-api/target/
+/xuecheng-plus-media/xuecheng-plus-media-model/target/
+/xuecheng-plus-media/xuecheng-plus-media-service/target/
+/xuecheng-plus-message-sdk/target/
+/xuecheng-plus-orders/xuecheng-plus-orders-api/target/
+/xuecheng-plus-orders/xuecheng-plus-orders-model/target/
+/xuecheng-plus-orders/xuecheng-plus-orders-service/target/
+/xuecheng-plus-system/xuecheng-plus-system-api/target/
+/xuecheng-plus-system/xuecheng-plus-system-model/target/
+/xuecheng-plus-system/xuecheng-plus-system-service/target/
